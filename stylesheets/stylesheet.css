@@ -127,8 +127,8 @@ a {
 }
 
 #main_content a:hover {
-  color: #0069ba;
-  text-shadow: #0090ff 0px 0px 2px;
+  color: #83ABA9;
+  text-shadow: 0 0 2px #E8E8E8;
 }
 
 footer a:hover {
