@@ -50,7 +50,7 @@ table {
 a:focus {
   outline: none;
 }
-
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:700);
 #cssmenu {
   background: #427bb8;
   width: auto;
