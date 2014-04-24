@@ -134,29 +134,7 @@ a:focus {
 #cssmenu ul li.active a:before {
   width: 100%;
 }
-@media screen and (max-width: 768px) {
-  #cssmenu ul li {
-    float: none;
-  }
-  #cssmenu ul li a {
-    width: 100%;
-    -moz-box-sizing: border-box;
-    -webkit-box-sizing: border-box;
-    box-sizing: border-box;
-  }
-  #cssmenu ul li a:after {
-    display: none;
-  }
-  #cssmenu ul li a:before {
-    height: 1px;
-    background: #ffffff;
-    width: 100%;
-    opacity: .2;
-  }
-  #cssmenu ul li.last > a:before,
-  #cssmenu ul li:last-child > a:before {
-    display: none;
-  }
+  
 
 
 
