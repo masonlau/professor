@@ -130,7 +130,7 @@ a:focus {
   display: none;
 }
 #cssmenu ul li.active a {
-  color: #333333;
+  color: #dedede;
 }
 #cssmenu ul li.active a:before {
   width: 100%;
