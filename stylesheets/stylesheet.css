@@ -354,6 +354,15 @@ img {
   max-width: auto;
 }
 
+.panel-body:before {
+    border-right: 1px solid #828282;
+    content: "";
+    float: left;
+    font-family: "FontAwesome";
+    font-size: 2em;
+    margin-right: 10px;
+    padding-right: 10px;
+}
 /*******************************************************************************
 Full-Width Styles
 *******************************************************************************/
