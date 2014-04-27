@@ -142,7 +142,7 @@ a:focus {
   width: 100%;
 }
   
-.panel-body:before {
+.panel:before {
     border-right: 1px solid #828282;
     content: "";
     float: left;
