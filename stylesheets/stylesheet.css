@@ -381,6 +381,7 @@ Full-Width Styles
   position: absolute;
   margin: 40px;
   max-width: 240px;
+  padding-left: 80px;
 }  
   
 #forkme_banner {
