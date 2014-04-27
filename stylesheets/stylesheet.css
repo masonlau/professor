@@ -144,7 +144,7 @@ a:focus {
   
 .panel:before {
     border-right: 1px solid #828282;
-    content: "";
+    content: "\f0a1";
     float: left;
     font-family: "FontAwesome";
     font-size: 2em;
