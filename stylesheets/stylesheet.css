@@ -142,7 +142,7 @@ a:focus {
   width: 100%;
 }
   
-.panel panel-default:before {
+.panel panel-default>panel-body:before {
     border-right: 1px inset #828282;
     content: "\f0a1";
     float: left;
