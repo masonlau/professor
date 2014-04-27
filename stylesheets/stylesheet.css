@@ -149,7 +149,10 @@ a:focus {
     font-family: "FontAwesome";
     font-size: 2em;
     margin-right: 10px;
+    margin-top: 10px;
+    padding-left: 10px;
     padding-right: 10px;
+    padding-top: 10px;
 }
 
 /*******************************************************************************
