@@ -132,8 +132,10 @@ a:focus {
   display: none;
 }
 #cssmenu ul li.active a {
-  color: #dedede;
+  color: #BDC9CC;
+  text-shadow: 0 1px 2px #6D6D6D;
 }
+
 #cssmenu ul li.active a:before {
   width: 100%;
 }
