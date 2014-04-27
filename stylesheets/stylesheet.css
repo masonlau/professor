@@ -378,7 +378,7 @@ Full-Width Styles
 
 .sidebar {
   display: block;
-  position: absolute;
+  position: fixed;
   margin: 40px;
   max-width: 240px;
   padding-left: 80px;
