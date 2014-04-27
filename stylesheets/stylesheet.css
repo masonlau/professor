@@ -376,6 +376,11 @@ Full-Width Styles
   margin: 0 auto;
 }
 
+.sidebar {
+  position: relative;
+  max-width: 240px;
+}  
+  
 #forkme_banner {
   display: block;
   position: absolute;
