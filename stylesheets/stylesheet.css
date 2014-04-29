@@ -408,10 +408,10 @@ Full-Width Styles
 }
 
 .inner {
+  margin: 0 auto 0 350px;
+  max-width: 840px;
   position: relative;
-  max-width: 640px;
   padding: 20px 10px;
-  margin: 0 auto;
 }
 
 .sidebar {
