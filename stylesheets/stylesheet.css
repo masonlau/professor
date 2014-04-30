@@ -154,6 +154,7 @@ a:focus {
     padding-right: 10px;
     padding-top: 10px;
 }
+
 /*Panel tabs*/
 .panel-tabs {
     position: relative;
@@ -193,6 +194,16 @@ a:focus {
     background-color: rgba(255,255,255, .23);
     border-bottom-color: transparent;
 }
+
+.box {
+    box-shadow: 0 0 2px 3px rgba(234, 234, 234, 1);
+    height: 164px;
+    width: 264px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 4px;
+}
+
 /*******************************************************************************
 Theme Styles
 *******************************************************************************/
