@@ -196,12 +196,15 @@ a:focus {
 }
 
 .box {
-    box-shadow: 0 0 2px 3px rgba(234, 234, 234, 1);
-    height: 164px;
-    width: 264px;
-    text-align: center;
-    padding: 10px;
+    background: none repeat scroll 0 0 #E65959;
+    border: 2px solid #C90404;
     border-radius: 4px;
+    color: #FCFBFB;
+    font-size: 16px;
+    height: 164px;
+    padding: 10px;
+    text-align: left;
+    width: 264px;
 }
 
 /*******************************************************************************
